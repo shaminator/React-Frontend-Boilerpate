@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# React Boilerplate
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Install Dependancies 
 
-## Available Scripts
+After cloning project run in project folder:
+
+### npm install package.json --save
+
+# React Scripts
 
 In the project directory, you can run:
 
